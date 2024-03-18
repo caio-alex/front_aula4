@@ -1,0 +1,20 @@
+.desafio1{
+ color: orange;
+}
+
+
+ul.a {
+    list-style-type: circle;
+    }
+    
+
+.lista1{
+    color: #0000FF;
+    background-color: rgb(190, 202, 202);
+    font-family: 'Courier New', Courier, monospace;
+   }
+
+.lista2{
+    color: #0000FF;
+    background-color: rgb(110, 167, 108);
+   }
